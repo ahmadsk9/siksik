@@ -1,0 +1,45 @@
+body {
+    background-color: #001F3F;
+}
+h1 {
+    text-align: center;
+    background-color: #0B192C;
+    color: #3572EF; 
+    border: solid #3572EF;
+    width:  100%;
+    margin-top:0%
+}
+#s {
+  border: solid #3572EF;
+  background-color: #0B192C;
+  width: 300px;
+  height: 200px;
+  margin-left: 39%;
+  font-size: 30px;
+  text-align: center;
+  color: #3572EF;
+  
+}
+#insta {
+    border: solid #3572EF;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+   
+}
+#face {
+  margin: 20px 20px 20px 250px;
+    border: solid #3572EF;
+    width: 250px;
+    height: 250px;
+}
+#pp {
+    border: solid #3572EF;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+div {
+    display: grid;
+    grid-template-columns: repeat(3,0fr);
+}
